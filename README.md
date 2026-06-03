@@ -1,4 +1,5 @@
-<img width="1088" height="639" alt="image" src="https://github.com/user-attachments/assets/6e479d46-1062-4eae-b19b-d4425545d4f2" /># customer-behavior-analytics
+**Customer Behavior Analytics
+**
 An end-to-end data analytics project using PostgreSQL for deep data exploration and Power BI to build an interactive Customer Behavior Dashboard. This project translates raw customer data into actionable business insights, tracking key performance indicators (KPIs) like subscription retention, revenue distribution by category, and age demographics
 
 
